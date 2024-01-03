@@ -31,7 +31,7 @@ export const Listado = () => {
             <div className="container">
 
                 <input
-                    className='form-control mt-2 mb-5'
+                    className='form-control mt-3 mb-5'
                     type="text"
                     value={query}
                     placeholder="Buscar Pokemon"
